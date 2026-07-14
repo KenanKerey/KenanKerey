@@ -1,18 +1,68 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png)
-<h1 align="center">Hi 👋, I'm Kenan Kerey</h1>
-<h3 align="center">A passionate C# developer from Türkiye</h3>
+<h1 align="center">Hi, I'm Kenan Kerey 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Software Developer · AI Trainer & Data Annotation Specialist</b><br>
+  I ship real products with LLMs — and evaluate what they produce, every day.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  📍 Istanbul, Turkey &nbsp;·&nbsp; 🌐 English (C1) &nbsp;·&nbsp; 💬 Open to remote roles
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenankerey&show_icons=true&locale=en&layout=compact" alt="kenankerey" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://apps.apple.com/app/YOUR-APP"><img src="https://img.shields.io/badge/Orbit_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"></a>
+  <a href="mailto:kereykenan4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenankerey&show_icons=true&locale=en" alt="kenankerey" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenankerey&" alt="kenankerey" /></p>
+### 🚀 About me
 
-![snake gif](https://github.com/KenanKerey/KenanKerey/blob/output/github-contribution-grid-snake.gif)
+- 🧠 I use **LLM-based tools (Claude, Cursor)** daily to write, debug, and **evaluate** AI-generated code in C#, JavaScript, and Python.
+- 📱 I've **designed, built, and shipped apps end-to-end** as a solo developer — on both the **App Store** and **Google Play**.
+- 🎯 Detail-oriented and rubric-driven: I can explain in clear, structured English *why* a model output is wrong and *how* to fix it — the core of AI training & RLHF work.
+- 🎨 Extensive **prompt engineering** across text, image, and video models (Claude, Kling AI, Google Veo 3, ElevenLabs).
+- 🌱 Currently graduating in Software Development (June 2026) and looking for **AI Trainer, Data Annotation, and Software Developer** roles.
+
+---
+
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI tooling:** LLM-assisted development (Claude, Cursor) · Prompt engineering · Output evaluation · Generative media (Veo 3, Kling AI, ElevenLabs)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🪐 Orbit — AI Planner & Journal** | Productivity app built & shipped solo, **live on the App Store**. Accepted into the BTM Pre-Incubation program. | React Native · Expo · Supabase |
+| **🚌 Real-Time Istanbul Bus Tracker** | Live map that polls municipal GPS data and renders smoothly animated vehicle positions via route-geometry interpolation. | React · Vite · MapLibre GL · Turf.js |
+| **🕹️ Mysterious Cave Journey** | Solo-built and published Unity game — gameplay programming, level design, store release. | Unity · C# |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Kenan's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+</p>
+
+---
+
+<p align="center"><i>Open to AI Trainer, Data Annotation & Software Developer roles — remote-friendly.</i></p>
