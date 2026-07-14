@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kenan-kerey-9733b92b0/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://apps.apple.com/app/YOUR-APP](https://apps.apple.com/us/app/orbit-ai-planner-journal/id6760899581)"><img src="https://img.shields.io/badge/Orbit_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"></a>
+  <a href="https://www.linkedin.com/in/kenan-kerey-9733b92b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://apps.apple.com/us/app/orbit-ai-planner-journal/id6760899581"><img src="https://img.shields.io/badge/Orbit_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"></a>
   <a href="mailto:kereykenan4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
