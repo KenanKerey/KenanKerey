@@ -56,13 +56,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanKerey&show_icons=true&theme=tokyonight&hide_border=true" alt="Kenan's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanKerey&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
-
----
-
 <p align="center"><i>Open to AI Trainer, Data Annotation & Software Developer roles — remote-friendly.</i></p>
