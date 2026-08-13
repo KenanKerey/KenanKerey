@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kenan Kerey 👋</h1>
 
 <p align="center">
-  <b>Software Developer · AI Trainer & Data Annotation Specialist</b><br>
+  <b>Software Developer</b><br>
   I ship real products with LLMs — and evaluate what they produce, every day.
 </p>
 
