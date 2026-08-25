@@ -17,7 +17,6 @@
 
 ### 🚀 About me
 
-- 🧠 I use **LLM-based tools (Claude, Cursor, Roo Code, Cline)** daily to write, debug, and **evaluate** AI-generated code in C#, JavaScript/TypeScript, and Python.
 - 📱 I've **designed, built, and shipped apps end-to-end** as a solo developer — currently live on the **App Store**.
 - 🏢 I have hands-on experience in **Enterprise IT & Systems**, having digitized workflows using C#/TypeScript and managed Active Directory, Microsoft 365, and SAP ERP operations.
 - 🎯 Detail-oriented and rubric-driven: I can explain in clear, structured English *why* a model output is wrong and *how* to fix it — the core of AI training & RLHF work.
