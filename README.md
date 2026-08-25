@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Kenan Kerey 👋</h1>
 
 <p align="center">
-  <b>Software Developer & IT Systems Specialist</b><br>
-  I ship real products with LLMs, digitize enterprise workflows, and evaluate AI outputs every day.
-</p>
+  <b>Software Developer & IT Systems Specialist</b><br></p>
 
 <p align="center">
   📍 Istanbul, Turkey &nbsp;·&nbsp; 🌐 English (Professional Working Proficiency) &nbsp;·&nbsp; 💬 Open to remote & hybrid roles
