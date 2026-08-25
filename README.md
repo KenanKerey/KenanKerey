@@ -4,7 +4,7 @@
   <b>Software Developer & IT Systems Specialist</b><br></p>
 
 <p align="center">
-  📍 Istanbul, Turkey &nbsp;·&nbsp; 🌐 English (Professional Working Proficiency) &nbsp;·&nbsp; 💬 Open to remote & hybrid roles
+  📍 Istanbul, Turkey &nbsp;·&nbsp; 🌐 English B2 &nbsp;·&nbsp; 💬 Open to remote & hybrid roles
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 - 📱 I've **designed, built, and shipped apps end-to-end** as a solo developer — currently live on the **App Store**.
 - 🏢 I have hands-on experience in **Enterprise IT & Systems**, having digitized workflows using C#/TypeScript and managed Active Directory, Microsoft 365, and SAP ERP operations.
 - 🎯 Detail-oriented and rubric-driven: I can explain in clear, structured English *why* a model output is wrong and *how* to fix it — the core of AI training & RLHF work.
-- 🎨 Extensive **prompt engineering** across text, image, and video models (Claude, Kling AI, Google Veo 3, ElevenLabs).
 - 🌱 Currently pursuing an Associate Degree in **Computer Programming** (after graduating in IT in June 2026), looking for **Software Developer, IT Support/Helpdesk, and AI Trainer** roles.
 
 ---
@@ -58,4 +57,4 @@
 
 ---
 
-<p align="center"><i>Open to Software Developer, IT System Specialist, and AI Trainer roles.</i></p>
+<p align="center"><i>Open to Software Developer, IT System Specialist</i></p>
