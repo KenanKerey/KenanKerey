@@ -43,8 +43,6 @@
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI Tooling:** LLM-assisted development (Claude, Cursor, Roo Code, Cline) · Prompt engineering · Generative media (Veo 3, Kling AI, ElevenLabs)
-
 ---
 
 ### 📌 Featured Projects
